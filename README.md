@@ -6,7 +6,7 @@ Es hilft dabei, Fehler, die oft nur in der Produktionsumgebung auftreten, früh 
 
 Dieser CI-Server übernimmt dabei folgende Aufgaben:
   - Änderungen im Code, die Entwickler durchgeführt und ins Repository commited haben, werden automatisch erkannt und      ein Buildprozess wird durchgeführt.
-  - Unit- und Integrationstest werden ausgeführt.
+  - Unit- und Integrationstest werden automatisch ausgeführt.
   - Build Artefakte werden archiviert.
   - Die Entwickler werden über den (nicht) erfolgreichen Buildprozess informiert.
   - Es wird ein automatisches Deployment auf die Testumgebung durchgeführt.
